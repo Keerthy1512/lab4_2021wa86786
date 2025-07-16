@@ -1,1 +1,1 @@
-Hello
+public class HelloWorld {}
